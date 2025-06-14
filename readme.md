@@ -583,6 +583,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [Lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+- [commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI based on Git repository changes.
 
 ### GitHub
 
